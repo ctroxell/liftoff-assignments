@@ -16,7 +16,7 @@ As a kid, did you ever beg your parent for a new pet? Your parents may have resp
 -Activities will grant XP which will add up to unlock achievements
 -Achievements for certain activities/XP level ups
 -Add parent account to user profile
--Parents can add custom achievements (a simple input string)
+-Parents can add custom achievement rewards (a simple input string)
 -Idea: parents can sign up for a weekly summary email? Could be interesting
 -Idea: links to pet care information
 -Idea: pet weight calculator to determine how much food they should get
